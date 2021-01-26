@@ -13,11 +13,11 @@ In this project, I used a Machine Learning algorithm to label an unlabeled datab
 
 • Data Cleaning
 
-• Exploratory Data Analysis 
+• Exploratory Data Analysis (EDA)
 
-• Elbow Method 
+• Dendrogram
 
-• Applying K-Means to the dataset
+• Applying Hierarchical Clustering to the dataset
 
 • Interpreting the new dataset
 
